@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="" table="x_58872_needit_u_updater_test">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes/>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label/>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element/>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Collection">collection</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_58872_needit_u_updater_test</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-01 12:03:38</sys_created_on>
+        <sys_id>10778a4a1b4a80d039f8dc6cdc4bcbea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_u_updater_test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_dictionary_x_58872_needit_u_updater_test_null</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-01 12:03:38</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>844f565fdb53b70052dd2f17d49619d9</instance_id>
+        <instance_name>dev91998</instance_name>
+        <name>sys_dictionary_x_58872_needit_u_updater_test_null</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_58872_needit_u_updater_test"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_58872_needit_u_updater_test&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-01-01 12:03:38&lt;/sys_created_on&gt;&lt;sys_id&gt;10778a4a1b4a80d039f8dc6cdc4bcbea&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_58872_needit_u_updater_test&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_58872_needit_u_updater_test_null&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-01-01 12:03:38&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-959147860</payload_hash>
+        <record_name>Updater Test</record_name>
+        <reverted_from/>
+        <source>242e27311b4280d039f8dc6cdc4bcbe9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-01 12:03:38</sys_created_on>
+        <sys_id>98774a0e1b4a80d039f8dc6cdc4bcbbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f60fd6d250000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-01 12:03:38</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>50774a0e644a80d0c578e33b68509fbc</update_guid>
+        <update_guid_history>50774a0e644a80d0c578e33b68509fbc:-959147860,40e3864a514a80d0901a0a55d17a1b04:1273291616,f3d3464a6d4a80d01a89512e517ea173:-959147860,a4704686044a80d04d5b5139d1d106e3:1273291616,9c704686ce4a80d07c36b5465f496871:-959147860,bb1db5c2e14a80d03625184802e6098e:1273291616,ef1db5c2a74a80d0abd25f32e0c27534:-959147860,8d99f102a14a80d0cfb1b584eb408258:1273291616,7099b102de4a80d084702a9716a372f5:-959147860,4046f14e3e0a80d0e99dac25095835f9:1273291616,6736f14e8d0a80d04dccf027e048a758:-959147860,36e2f18a920a80d08b6b2e01dc8ad9c5:1273291616,6ee2f18ad20a80d081fb706233a28140:-959147860,bd4fed86a40a80d0cb6597d603429afc:1273291616,d94fed86270a80d0d4905acd780f7180:-959147860,4ceb2106270a80d0f21c7e65d1d03f5f:1273291616,33dbedc24f0a80d06daaea47415121fe:-959147860,df686d02830a80d0138fb67e7c7a5cab:1273291616,8b686d02d50a80d027f4fcdac018d058:-959147860,1015ad4e95c680d05004067b53c1ba67:1273291616,4015ad4ec8c680d0bcaaac9276ecc20c:-959147860,83812d8a7cc680d074755a55334c9ace:1273291616,ba812d8a0fc680d07576d24b74bf213f:-959147860,fa5eddc6c7c680d0c923a3ee78c5a3e6:1273291616,125eddc6aec680d0661925acf5e49a6d:-959147860,e6ba1d068bc680d0020c5151aa3c957c:1273291616,dabad90629c680d0f587013f1950e3f9:-959147860,e6675d4274c680d04ffa68a46d6de9c3:1273291616,1e675d427ec680d0f90b0ec7f9efab54:-959147860,e6d3d98e158680d071a924cc727af4ac:1273291616,5ed3d98e078680d01f6b19ecec000b24:-959147860,c8901dca718680d0466fd82d8510cd26:1273291616,7380d9caa38680d0f5a5d36c328128a1:-959147860,fa1d890a558680d01d3ce3c23e42b3b4:1273291616,621d890a7b8680d03438e8ac57c62651:-959147860,36790946e78680d0d51bc5e7e6324f18:1273291616,e279c546b98680d0d99f754336641ba6:-959147860,70160182f08680d00bf47f70c5a2edfc:1273291616,ac160182498680d0844364db9774ce9c:-959147860,18d281ceea4680d03c89bd867484d8e6:1273291616,c0d281ced14680d0ebb11b4b8d84d371:-959147860,293f7ccaed4680d0013d7feeab05f4c8:1273291616,8d3f7cca114680d07c042df3e73a6872:-959147860,d7fb304a3a4680d0d4f8b7ebd2da6d32:1273291616,8bfbfc0aee4680d00ee9cbb7e9ab58ae:-959147860,c098fc46c14680d03200bdccab099af9:1273291616,fb88fc46854680d0d90ff080ded53d8b:-959147860,98e43c82044680d0a19aa3849327f977:1273291616,84e4f882064680d0f9d559aa113b08ef:-959147860,9f713cce890680d024ed1493a523b9f7:1273291616,43713cce690680d00cd15df0015f3784:-959147860,b33eac0e610680d06be7df60a46e68f8:1273291616,e33eac0e6a0680d0ae5089bf839205a4:-959147860,a7aa2c4af10680d0d410aee0f98724ab:1273291616,13aa2c4a5f0680d083faa031a7b8144f:-959147860,3f67ec86080680d048006745201e5710:1273291616,6367ac868a0680d08d1f6663257336bd:-959147860,9eb3a8c2630680d070c1d3cf68bb6013:1273291616,02b368c21a0680d0225c3da32acd9bad:-959147860,2660e802500680d01dc296d1cdfafcc5:1273291616,d260e802920680d0d5a1a93a3ae4ab71:-959147860,870d1c4e28c280d036ab4e51517da054:1273291616,760dd84e66c280d00470bc0a5af15ce4:-959147860,9ea91c8a95c280d0d26b2a79ac191c7c:1273291616,b9a91c8aebc280d0bf2896710c051716:-959147860,0b1698c62cc280d060aae00ad9a4e0a5:1273291616,fe1698c6c7c280d0bb754cba89c5b80a:-959147860,19a258061ec280d08aa9be582f21c4dc:1273291616,81a25806f0c280d0b34e3647c708d26e:-959147860,fa1fc442cfc280d0651bcb784990e9ef:1273291616,e21fc442e2c280d0889b5479cbd9b894:-959147860,9deb888e7a8280d0f1615ee7306ef28a:1273291616,49eb888e748280d0489036258d99fe07:-959147860,007848ca408280d0b6abf35deac99024:1273291616,b36808ca938280d08c1ce4b3633e69c6:-959147860,7c15c40a388280d0df379367fa46aadf:1273291616,e415c40a3a8280d00063f074658d3a42:-959147860,be618c06a18280d01861bee734819bdd:1273291616,6e618c066a8280d00fa356a73bfd3960:-959147860,ff0e7f71ad8280d0be7068cd5c5a1dab:1273291616,570e7f716b8280d0ec24a25b49e3c721:-959147860,14cafbbd1f4280d0db3fe983a2c74b98:1273291616,b3bafbbd854280d06dafd94ff5937e3c:-959147860,a217ffb9284280d0f0aeb2c42ab5dc2a:1273291616,d617bfb9104280d0fe1db3b6dfc9fcd4:-959147860,b7a33b75b24280d04d181df8e7558073:1273291616,23a33b75284280d0d0a66abfcf5adc03:-959147860,6f507bb14c4280d08e036e7f55146b7a:1273291616,d7507bb17a4280d0e841503761ce3d2d:-959147860</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-01 12:03:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>50bcd68d23db4076aa798dc0772be364</sys_id>
+        <sys_metadata>10778a4a1b4a80d039f8dc6cdc4bcbea</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_u_updater_test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">5c778a4a1b4a80d039f8dc6cdc4bcbe7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_58872_needit_u_updater_test_null</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_58872_needit_u_updater_test_null">98774a0e1b4a80d039f8dc6cdc4bcbbc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-01 12:03:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
